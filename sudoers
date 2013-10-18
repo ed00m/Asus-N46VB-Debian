@@ -1,0 +1,2 @@
+usuario   ALL=NOPASSWD: RUTA/brillo.sh
+usuario   ALL=NOPASSWD: RUTA/teclado.sh

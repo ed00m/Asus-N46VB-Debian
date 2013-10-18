@@ -1,0 +1,3 @@
+# Example aliases
+alias brillo="RUTA/brillo.sh"
+alias teclado="RUTA/teclado.sh"
